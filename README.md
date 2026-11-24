@@ -1,7 +1,7 @@
 # Vietnam Creative Industry Employment (2016–2018)
 
 An interactive **R Shiny** web application exploring creative industry employment trends, sector composition, employment types, and working conditions in Vietnam using data from the **Vietnam Labor Force Survey (2016–2018)**.     
-**Live App:** https://minesweeperiii.github.io/WIPO-example-2/
+**Live App:** [https://minesweeperiii.github.io/WIPO-example-2/](https://minesweeperiii.github.io/WIPO-example-2/)
 
 ---
 
