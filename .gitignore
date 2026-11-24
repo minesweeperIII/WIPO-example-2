@@ -1,0 +1,20 @@
+# Raw survey data & large data files (keep only data/app_plots.rds)
+*.dta
+*.csv
+data/data2016/
+data/data2017/
+data/data2018/
+
+# Temporary deployment staging folder
+_deploy/
+
+# R & RStudio files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# OS junk files
+.DS_Store
+Thumbs.db
